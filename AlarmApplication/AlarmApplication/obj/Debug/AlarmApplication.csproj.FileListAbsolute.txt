@@ -1,0 +1,10 @@
+C:\Users\Elgun Hashimli\source\repos\AlarmApplication\AlarmApplication\bin\Debug\AlarmApplication.exe.config
+C:\Users\Elgun Hashimli\source\repos\AlarmApplication\AlarmApplication\bin\Debug\AlarmApplication.exe
+C:\Users\Elgun Hashimli\source\repos\AlarmApplication\AlarmApplication\bin\Debug\AlarmApplication.pdb
+C:\Users\Elgun Hashimli\source\repos\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.csprojAssemblyReference.cache
+C:\Users\Elgun Hashimli\source\repos\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.FormMain.resources
+C:\Users\Elgun Hashimli\source\repos\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.Properties.Resources.resources
+C:\Users\Elgun Hashimli\source\repos\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.csproj.GenerateResource.cache
+C:\Users\Elgun Hashimli\source\repos\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.csproj.CoreCompileInputs.cache
+C:\Users\Elgun Hashimli\source\repos\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.exe
+C:\Users\Elgun Hashimli\source\repos\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.pdb
